@@ -1,0 +1,91 @@
+@article{you12_analy_light_scatt_by_capil,
+  author =	 {Zhihong You and Daya Jiang and Zhibo Hou and Jinghua
+                  Xiao},
+  title =	 {Analysis of Light Scattered By a Capillary To
+                  Measure a Liquid's Index of Refraction},
+  journal =	 {American Journal of Physics},
+  volume =	 80,
+  number =	 8,
+  pages =	 {688-693},
+  year =	 2012,
+  doi =		 {10.1119/1.4729607},
+  url =		 {https://doi.org/10.1119/1.4729607},
+  DATE_ADDED =	 {Fri Oct 5 10:55:30 2018},
+}
+
+
+@article{you12_charac_applic_two_dimen_light,
+  author =	 {Zhihong You and Daya Jiang and Jakob Stamnes and
+                  Jianjun Chen and Jinghua Xiao},
+  title =	 {Characteristics and Applications of Two-Dimensional
+                  Light Scattering By Cylindrical Tubes Based on Ray
+                  Tracing},
+  journal =	 {Applied Optics},
+  volume =	 51,
+  number =	 35,
+  pages =	 8341,
+  year =	 2012,
+  doi =		 {10.1364/ao.51.008341},
+  url =		 {https://doi.org/10.1364/ao.51.008341},
+  DATE_ADDED =	 {Fri Oct 5 10:56:30 2018},
+}
+
+
+@article{you18_geomet_mechan_microd_growin_bacter_colon,
+  author =	 {Zhihong You and Daniel J. G. Pearce and Anupam
+                  Sengupta and Luca Giomi},
+  title =	 {Geometry and Mechanics of Microdomains in Growing
+                  Bacterial Colonies},
+  journal =	 {Physical Review X},
+  volume =	 8,
+  number =	 3,
+  pages =	 031065,
+  year =	 2018,
+  doi =		 {10.1103/physrevx.8.031065},
+  url =		 {https://doi.org/10.1103/physrevx.8.031065},
+  DATE_ADDED =	 {Thu Sep 13 09:40:42 2018},
+}
+
+
+@Article{lemma19_stat_prop_auto_flow_2d_acti_nema,
+author ="Lemma, Linnea M. and DeCamp, Stephen J. and You, Zhihong and Giomi, Luca and Dogic, Zvonimir",
+title  ="Statistical properties of autonomous flows in 2D active nematics",
+journal  ="Soft Matter",
+year  ="2019",
+volume  ="15",
+issue  ="15",
+pages  ="3264-3272",
+publisher  ="The Royal Society of Chemistry",
+doi  ="10.1039/C8SM01877D",
+url  ="http://dx.doi.org/10.1039/C8SM01877D",
+abstract  ="We study the dynamics of a tunable 2D active nematic liquid crystal composed of microtubules and kinesin motors confined to an oil–water interface. Kinesin motors continuously inject mechanical energy into the system through ATP hydrolysis{,} powering the relative microscopic sliding of adjacent microtubules{,} which in turn generates macroscale autonomous flows and chaotic dynamics. We use particle image velocimetry to quantify two-dimensional flows of active nematics and extract their statistical properties. In agreement with the hydrodynamic theory{,} we find that the vortex areas comprising the chaotic flows are exponentially distributed{,} which allows us to extract the characteristic system length scale. We probe the dependence of this length scale on the ATP concentration{,} which is the experimental knob that tunes the magnitude of the active stress. Our data suggest a possible mapping between the ATP concentration and the active stress that is based on the Michaelis–Menten kinetics that governs the motion of individual kinesin motors."}
+
+
+@article{you20_nonrec_as_gener_route_to_travel_states,
+  author =	 {Zhihong You and Aparna Baskaran and M. Cristina
+                  Marchetti},
+  title =	 {Nonreciprocity As a Generic Route To Traveling
+                  States},
+  journal =	 {Proceedings of the National Academy of Sciences},
+  volume =	 {nil},
+  number =	 {nil},
+  pages =	 202010318,
+  year =	 2020,
+  doi =		 {10.1073/pnas.2010318117},
+  url =		 {https://doi.org/10.1073/pnas.2010318117},
+  DATE_ADDED =	 {Tue Aug 18 09:56:55 2020},
+}
+
+@article {You21_conf_indu_self_orga_grow_bact_colo,
+	author = {You, Zhihong and Pearce, Daniel J. G. and Giomi, Luca},
+	title = {Confinement-induced self-organization in growing bacterial colonies},
+	volume = {7},
+	number = {4},
+	elocation-id = {eabc8685},
+	year = {2021},
+	doi = {10.1126/sciadv.abc8685},
+	publisher = {American Association for the Advancement of Science},
+	URL = {https://advances.sciencemag.org/content/7/4/eabc8685},
+	eprint = {https://advances.sciencemag.org/content/7/4/eabc8685.full.pdf},
+	journal = {Science Advances}
+}

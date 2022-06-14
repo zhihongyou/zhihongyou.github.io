@@ -5,62 +5,75 @@
     <link>https://zhihongyou.github.io/author/zhihong-you/</link>
       <atom:link href="https://zhihongyou.github.io/author/zhihong-you/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhihong You</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 07 Apr 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 01 Jan 2021 00:00:00 +0000</lastBuildDate>
     <image>
-      <url>https://zhihongyou.github.io/author/zhihong-you/avatar_hube350cae9c7ebe2ed4a58d0f8e0a54cc_2104099_270x270_fill_q75_lanczos_center.jpg</url>
+      <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Zhihong You</title>
       <link>https://zhihongyou.github.io/author/zhihong-you/</link>
     </image>
     
     <item>
-      <title>An example preprint / working paper</title>
-      <link>https://zhihongyou.github.io/publication/preprint/</link>
-      <pubDate>Sun, 07 Apr 2019 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/preprint/</guid>
-      <description>&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Confinement-induced self-organization in growing bacterial colonies</title>
+      <link>https://zhihongyou.github.io/publication/you-21-conf-indu-self-orga-grow-bact-colo/</link>
+      <pubDate>Fri, 01 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-21-conf-indu-self-orga-grow-bact-colo/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example journal article</title>
-      <link>https://zhihongyou.github.io/publication/journal-article/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/journal-article/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Nonreciprocity As a Generic Route To Traveling States</title>
+      <link>https://zhihongyou.github.io/publication/you-20-nonrec-as-gener-route-to-travel-states/</link>
+      <pubDate>Wed, 01 Jan 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-20-nonrec-as-gener-route-to-travel-states/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>PRX</title>
-      <link>https://zhihongyou.github.io/publication/prx/</link>
-      <pubDate>Tue, 01 Sep 2015 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/prx/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Growth-induced self-organization in bacterial colonies</title>
+      <link>https://zhihongyou.github.io/publication/you-2019-growth/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-2019-growth/</guid>
+      <description></description>
     </item>
     
     <item>
-      <title>An example conference paper</title>
-      <link>https://zhihongyou.github.io/publication/conference-paper/</link>
-      <pubDate>Mon, 01 Jul 2013 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/conference-paper/</guid>
-      <description>&lt;div class=&#34;alert alert-note&#34;&gt;
-  &lt;div&gt;
-    Click the &lt;em&gt;Cite&lt;/em&gt; button above to demo the feature to enable visitors to import publication metadata into their reference management software.
-  &lt;/div&gt;
-&lt;/div&gt;
-&lt;p&gt;Supplementary notes can be added here, including &lt;a href=&#34;https://wowchemy.com/docs/content/writing-markdown-latex/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;code and math&lt;/a&gt;.&lt;/p&gt;
-</description>
+      <title>Mono- To Multilayer Transition in Growing Bacterial Colonies</title>
+      <link>https://zhihongyou.github.io/publication/you-19-mono-to-multil-trans-growin-bacter-colon/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-19-mono-to-multil-trans-growin-bacter-colon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Statistical properties of autonomous flows in 2D active nematics</title>
+      <link>https://zhihongyou.github.io/publication/lemma-19-stat-prop-auto-flow-2-d-acti-nema/</link>
+      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/lemma-19-stat-prop-auto-flow-2-d-acti-nema/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Geometry and Mechanics of Microdomains in Growing Bacterial Colonies</title>
+      <link>https://zhihongyou.github.io/publication/you-18-geomet-mechan-microd-growin-bacter-colon/</link>
+      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-18-geomet-mechan-microd-growin-bacter-colon/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Analysis of Light Scattered By a Capillary To Measure a Liquid&#39;s Index of Refraction</title>
+      <link>https://zhihongyou.github.io/publication/you-12-analy-light-scatt-by-capil/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-12-analy-light-scatt-by-capil/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Characteristics and Applications of Two-Dimensional Light Scattering By Cylindrical Tubes Based on Ray Tracing</title>
+      <link>https://zhihongyou.github.io/publication/you-12-charac-applic-two-dimen-light/</link>
+      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/you-12-charac-applic-two-dimen-light/</guid>
+      <description></description>
     </item>
     
   </channel>
