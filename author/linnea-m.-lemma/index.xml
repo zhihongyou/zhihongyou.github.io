@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/author/linnea-m.-lemma/</link>
       <atom:link href="https://zhihongyou.github.io/author/linnea-m.-lemma/index.xml" rel="self" type="application/rss+xml" />
     <description>Linnea M. Lemma</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 13 Mar 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Linnea M. Lemma</title>
@@ -15,9 +15,23 @@
     <item>
       <title>Statistical properties of autonomous flows in 2D active nematics</title>
       <link>https://zhihongyou.github.io/publication/lemma-19-stat-prop-auto-flow-2-d-acti-nema/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 13 Mar 2019 00:00:00 +0000</pubDate>
       <guid>https://zhihongyou.github.io/publication/lemma-19-stat-prop-auto-flow-2-d-acti-nema/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;We study the dynamics of a tunable 2D active nematic liquid crystal composed
+of microtubules and kinesin motors confined to an oil–water interface. Kinesin motors
+continuously inject mechanical energy into the system through ATP hydrolysis, powering
+the relative microscopic sliding of adjacent microtubules, which in turn generates
+macroscale autonomous flows and chaotic dynamics. We use particle image velocimetry
+to quantify two-dimensional flows of active nematics and extract their statistical
+properties. In agreement with the hydrodynamic theory, we find that the vortex areas
+comprising the chaotic flows are exponentially distributed, which allows us to extract
+the characteristic system length scale. We probe the dependence of this length scale
+on the ATP concentration, which is the experimental knob that tunes the magnitude
+of the active stress. Our data suggest a possible mapping between the ATP concentration
+and the active stress that is based on the Michaelis–Menten kinetics that governs
+the motion of individual kinesin motors.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

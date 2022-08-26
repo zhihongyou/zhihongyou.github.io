@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/author/jianjun-chen/</link>
       <atom:link href="https://zhihongyou.github.io/author/jianjun-chen/index.xml" rel="self" type="application/rss+xml" />
     <description>Jianjun Chen</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 05 Dec 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Jianjun Chen</title>
@@ -15,9 +15,11 @@
     <item>
       <title>Characteristics and Applications of Two-Dimensional Light Scattering By Cylindrical Tubes Based on Ray Tracing</title>
       <link>https://zhihongyou.github.io/publication/you-12-charac-applic-two-dimen-light/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 05 Dec 2012 00:00:00 +0000</pubDate>
       <guid>https://zhihongyou.github.io/publication/you-12-charac-applic-two-dimen-light/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The intensity distribution of light scattered by a capillary tube filled with a liquid is studied using geometrical optics or ray tracing. Several intensity step points are found in the scattering pattern due to contributions from different geometrical rays. The scattering angles of these intensity step points vary with the capillary parameters, i.e., with the inner and outer radii of the capillary wall and the refractive indices of the liquid and the wall material. The relations between the scattering angles of the step points and the capillary parameters are analyzed using the reflection law and Snell’s law. A method is developed to determine the capillary parameters from measurements of the scattering angles of the step points. An experiment is designed to provide measured data from which the capillary parameters can be obtained by the proposed method. It is shown that this method provides capillary parameters of high precision.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

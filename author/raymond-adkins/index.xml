@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/author/raymond-adkins/</link>
       <atom:link href="https://zhihongyou.github.io/author/raymond-adkins/index.xml" rel="self" type="application/rss+xml" />
     <description>Raymond Adkins</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sat, 01 Jan 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Raymond Adkins</title>
@@ -15,9 +15,13 @@
     <item>
       <title>Dynamics of Active Liquid Interfaces</title>
       <link>https://zhihongyou.github.io/publication/adkins-22-dynam-activ-liquid-inter/</link>
-      <pubDate>Sat, 01 Jan 2022 00:00:00 +0000</pubDate>
+      <pubDate>Thu, 11 Aug 2022 00:00:00 +0000</pubDate>
       <guid>https://zhihongyou.github.io/publication/adkins-22-dynam-activ-liquid-inter/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Controlling interfaces of phase-separating fluid mixtures is key to the creation of diverse functional soft materials. Traditionally, this is accomplished with surface-modifying chemical agents. Using experiment and theory, we studied how mechanical activity shapes soft interfaces that separate an active and a passive fluid. Chaotic flows in the active fluid give rise to giant interfacial fluctuations and noninertial propagating active waves. At high activities, stresses disrupt interface continuity and drive droplet generation, producing an emulsion-like active state composed of finite-sized droplets. When in contact with a solid boundary, active interfaces exhibit nonequilibrium wetting transitions, in which the fluid climbs the wall against gravity. These results demonstrate the promise of mechanically driven interfaces for creating a new class of soft active matter.&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;When active and passive fluids interact&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;Incompatible liquids such as oil and water will phase separate with low interfacial tension. Adkins et al. investigated the dynamics of a one-dimensional interface separating an active nematic phase with a passive isotropic phase (see the Perspective by Palacci). They found a rich behavior of fluctuating interfaces in which the phase-separating fluids could form active emulsions that did not coarsen and in which droplets formed spontaneously. Macroscopic interfaces can also displayed propagating waves with a characteristic wave number and speed. Furthermore, the activity of one of the fluids, in which the addition of energy drove the ordering of that fluid, was able to modify the wetting transitions. The authors also observed active wetting of a solid surface whereby active extensile stresses parallel to the surface drove the fluid to climb a solid wall against gravity. —MSL&lt;/p&gt;
+</description>
     </item>
     
   </channel>

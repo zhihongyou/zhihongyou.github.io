@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/author/zhibo-hou/</link>
       <atom:link href="https://zhihongyou.github.io/author/zhibo-hou/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhibo Hou</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2012 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 17 Jul 2012 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Zhibo Hou</title>
@@ -15,9 +15,11 @@
     <item>
       <title>Analysis of Light Scattered By a Capillary To Measure a Liquid&#39;s Index of Refraction</title>
       <link>https://zhihongyou.github.io/publication/you-12-analy-light-scatt-by-capil/</link>
-      <pubDate>Sun, 01 Jan 2012 00:00:00 +0000</pubDate>
+      <pubDate>Tue, 17 Jul 2012 00:00:00 +0000</pubDate>
       <guid>https://zhihongyou.github.io/publication/you-12-analy-light-scatt-by-capil/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;A simple optical method to measure a liquid’s refractive index using a capillary is experimentally demonstrated. The analysis and simulation of the intensity distribution of light scattered by the capillary are accomplished with a ray tracing method, and three intensity step points are obtained. By measuring the scattering angles of these step points, we can obtain the refractive index of the liquid in the capillary, as well as the refractive index and the diameter ratio of the capillary. With a laser, a spectrometer, and a capillary, we can easily perform an interesting undergraduate physics experiment.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

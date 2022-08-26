@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/author/anupam-sengupta/</link>
       <atom:link href="https://zhihongyou.github.io/author/anupam-sengupta/index.xml" rel="self" type="application/rss+xml" />
     <description>Anupam Sengupta</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Tue, 01 Jan 2019 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 21 Oct 2019 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Anupam Sengupta</title>
@@ -15,17 +15,21 @@
     <item>
       <title>Mono- To Multilayer Transition in Growing Bacterial Colonies</title>
       <link>https://zhihongyou.github.io/publication/you-19-mono-to-multil-trans-growin-bacter-colon/</link>
-      <pubDate>Tue, 01 Jan 2019 00:00:00 +0000</pubDate>
+      <pubDate>Mon, 21 Oct 2019 00:00:00 +0000</pubDate>
       <guid>https://zhihongyou.github.io/publication/you-19-mono-to-multil-trans-growin-bacter-colon/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;The transition from monolayers to multilayered structures in bacterial colonies is a fundamental step in biofilm development. Observed across different morphotypes and species, this transition is triggered within freely growing bacterial microcolonies comprising a few hundred cells. Using a combination of numerical simulations and analytical modeling, here we demonstrate that this transition originates from the competition between growth-induced in-plane active stresses and vertical restoring forces, due to the cell-substrate interactions. Using a simple chainlike colony of laterally confined cells, we show that the transition sets when individual cells become unstable to rotations; thus it is localized and mechanically deterministic. Asynchronous cell division renders the process stochastic, so that all the critical parameters that control the onset of the transition are continuously distributed random variables. Here we demonstrate that the occurrence of the first division in the colony can be approximated as a Poisson process in the limit of large cell numbers. This allows us to approximately calculate the probability distribution function of the position and time associated with the first extrusion. The rate of such a Poisson process can be identified as the order parameter of the transition, thus highlighting its mixed deterministic-stochastic nature.&lt;/p&gt;
+</description>
     </item>
     
     <item>
       <title>Geometry and Mechanics of Microdomains in Growing Bacterial Colonies</title>
       <link>https://zhihongyou.github.io/publication/you-18-geomet-mechan-microd-growin-bacter-colon/</link>
-      <pubDate>Mon, 01 Jan 2018 00:00:00 +0000</pubDate>
+      <pubDate>Wed, 12 Sep 2018 00:00:00 +0000</pubDate>
       <guid>https://zhihongyou.github.io/publication/you-18-geomet-mechan-microd-growin-bacter-colon/</guid>
-      <description></description>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;Bacterial colonies are abundant on living and nonliving surfaces and are known to mediate a broad range of processes in ecology, medicine, and industry. Although extensively researched, from single cells to demographic scales, a comprehensive biomechanical picture, highlighting the cell-to-colony dynamics, is still lacking. Here, using molecular dynamics simulations and continuous modeling, we investigate the geometrical and mechanical properties of a bacterial colony growing on a substrate with a free boundary and demonstrate that such an expanding colony self-organizes into a “mosaic” of microdomains consisting of highly aligned cells. The emergence of microdomains is mediated by two competing forces: the steric forces between neighboring cells, which favor cell alignment, and the extensile stresses due to cell growth that tend to reduce the local orientational order and thereby distort the system. This interplay results in an exponential distribution of the domain areas and sets a characteristic length scale proportional to the square root of the ratio between the system orientational stiffness and the magnitude of the extensile active stress. Our theoretical predictions are finally compared with experiments with freely growing E. coli microcolonies, finding quantitative agreement.&lt;/p&gt;
+</description>
     </item>
     
   </channel>

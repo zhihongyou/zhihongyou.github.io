@@ -5,12 +5,44 @@
     <link>https://zhihongyou.github.io/news/</link>
       <atom:link href="https://zhihongyou.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://zhihongyou.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>New Position Started</title>
+      <link>https://zhihongyou.github.io/news/2022-08-15-position-start/</link>
+      <pubDate>Mon, 15 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2022-08-15-position-start/</guid>
+      <description>&lt;p&gt;My new position started today as an Associate Professor at Xiamen University.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New Paper Appeared on Science</title>
+      <link>https://zhihongyou.github.io/news/2022-08-12-science-paper/</link>
+      <pubDate>Fri, 12 Aug 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2022-08-12-science-paper/</guid>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://yousoftmatter.org/publication/adkins-22-dynam-activ-liquid-inter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Dynamics of Active Liquid Interfaces&lt;/a&gt; first appeared on Science. Check it out on &lt;a href=&#34;https://doi.org/10.1126/science.abo5423&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Journal&lt;/a&gt; or &lt;a href=&#34;https://arxiv.org/abs/2208.06044&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; for preprint version. To perceive a broad view of the filed, take a look at this &lt;a href=&#34;https://www.science.org/doi/10.1126/science.adc9202&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;accompanying perspective&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New paper appeared on Science Advances</title>
+      <link>https://zhihongyou.github.io/news/2021-01-22-science-advances-paper/</link>
+      <pubDate>Fri, 22 Jan 2021 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2021-01-22-science-advances-paper/</guid>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://yousoftmatter.org/publication/you-21-conf-indu-self-orga-grow-bact-colo/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Confinement-Induced Self-Organization in Growing Bacterial Colonies&lt;/a&gt; was published on Science Advances. Check it out on &lt;a href=&#34;https://advances.sciencemag.org/content/7/4/eabc8685&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science Advances&lt;/a&gt; or &lt;a href=&#34;https://arxiv.org/abs/2004.14890&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; for preprint version.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>New paper appeared on PNAS</title>
+      <link>https://zhihongyou.github.io/news/2020-08-04-pnas-paper/</link>
+      <pubDate>Tue, 04 Aug 2020 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2020-08-04-pnas-paper/</guid>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;https://yousoftmatter.org/publication/you-20-nonrec-as-gener-route-to-travel-states/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Nonreciprocity as a Generic Route to Traveling States&lt;/a&gt; published on PNAS. Check it out on &lt;a href=&#34;https://doi.org/10.1073/pnas.2010318117&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;PNAS&lt;/a&gt; or &lt;a href=&#34;https://arxiv.org/abs/2005.07684&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; for preprint version.&lt;/p&gt;</description>
+    </item>
     
   </channel>
 </rss>
