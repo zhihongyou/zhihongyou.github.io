@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/author/supavit-pokawanvit/</link>
       <atom:link href="https://zhihongyou.github.io/author/supavit-pokawanvit/index.xml" rel="self" type="application/rss+xml" />
     <description>Supavit Pokawanvit</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 27 Jun 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Supavit Pokawanvit</title>
@@ -13,13 +13,11 @@
     </image>
     
     <item>
-      <title>Active nematic defects in compressible and incompressible flows</title>
-      <link>https://zhihongyou.github.io/publication/pokawanvit-22-acti-nema-defe-comp-incom/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/pokawanvit-22-acti-nema-defe-comp-incom/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;We study two-dimensional active nematics on a substrate, comparing compressible and incompressible flows. Through simulations and theoretical analysis we show that arch patterns are stable in the compressible case but are unstable in an incompressible system. For compressible flows at high activity, stable arches organize in a smectic-like pattern, with associated global polar order of +1/2 nematic defects. By contrast, incompressible flows give rise to local nematic order of the +1/2 defects, consisting of anti-aligned pairs of neighboring defects, as previously established.&lt;/p&gt;
-</description>
+      <title>Active Nematic Defects in Compressible and Incompressible Flows</title>
+      <link>https://zhihongyou.github.io/publication/pokawanvit-22-activ-nemat-defec-compr-incom-flows/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/pokawanvit-22-activ-nemat-defec-compr-incom-flows/</guid>
+      <description></description>
     </item>
     
   </channel>

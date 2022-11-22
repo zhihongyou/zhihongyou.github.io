@@ -5,12 +5,20 @@
     <link>https://zhihongyou.github.io/author/zhihong-you/</link>
       <atom:link href="https://zhihongyou.github.io/author/zhihong-you/index.xml" rel="self" type="application/rss+xml" />
     <description>Zhihong You</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Thu, 11 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Wed, 16 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>Zhihong You</title>
       <link>https://zhihongyou.github.io/author/zhihong-you/</link>
     </image>
+    
+    <item>
+      <title>Active Nematic Defects in Compressible and Incompressible Flows</title>
+      <link>https://zhihongyou.github.io/publication/pokawanvit-22-activ-nemat-defec-compr-incom-flows/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/publication/pokawanvit-22-activ-nemat-defec-compr-incom-flows/</guid>
+      <description></description>
+    </item>
     
     <item>
       <title>Dynamics of Active Liquid Interfaces</title>
@@ -21,16 +29,6 @@
 &lt;p&gt;Controlling interfaces of phase-separating fluid mixtures is key to the creation of diverse functional soft materials. Traditionally, this is accomplished with surface-modifying chemical agents. Using experiment and theory, we studied how mechanical activity shapes soft interfaces that separate an active and a passive fluid. Chaotic flows in the active fluid give rise to giant interfacial fluctuations and noninertial propagating active waves. At high activities, stresses disrupt interface continuity and drive droplet generation, producing an emulsion-like active state composed of finite-sized droplets. When in contact with a solid boundary, active interfaces exhibit nonequilibrium wetting transitions, in which the fluid climbs the wall against gravity. These results demonstrate the promise of mechanically driven interfaces for creating a new class of soft active matter.&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;When active and passive fluids interact&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;Incompatible liquids such as oil and water will phase separate with low interfacial tension. Adkins et al. investigated the dynamics of a one-dimensional interface separating an active nematic phase with a passive isotropic phase (see the Perspective by Palacci). They found a rich behavior of fluctuating interfaces in which the phase-separating fluids could form active emulsions that did not coarsen and in which droplets formed spontaneously. Macroscopic interfaces can also displayed propagating waves with a characteristic wave number and speed. Furthermore, the activity of one of the fluids, in which the addition of energy drove the ordering of that fluid, was able to modify the wetting transitions. The authors also observed active wetting of a solid surface whereby active extensile stresses parallel to the surface drove the fluid to climb a solid wall against gravity. —MSL&lt;/p&gt;
-</description>
-    </item>
-    
-    <item>
-      <title>Active nematic defects in compressible and incompressible flows</title>
-      <link>https://zhihongyou.github.io/publication/pokawanvit-22-acti-nema-defe-comp-incom/</link>
-      <pubDate>Mon, 27 Jun 2022 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/pokawanvit-22-acti-nema-defe-comp-incom/</guid>
-      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
-&lt;p&gt;We study two-dimensional active nematics on a substrate, comparing compressible and incompressible flows. Through simulations and theoretical analysis we show that arch patterns are stable in the compressible case but are unstable in an incompressible system. For compressible flows at high activity, stable arches organize in a smectic-like pattern, with associated global polar order of +1/2 nematic defects. By contrast, incompressible flows give rise to local nematic order of the +1/2 defects, consisting of anti-aligned pairs of neighboring defects, as previously established.&lt;/p&gt;
 </description>
     </item>
     

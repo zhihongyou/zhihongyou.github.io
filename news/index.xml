@@ -5,12 +5,36 @@
     <link>https://zhihongyou.github.io/news/</link>
       <atom:link href="https://zhihongyou.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 15 Aug 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://zhihongyou.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>News article on our Science paper</title>
+      <link>https://zhihongyou.github.io/news/2022-11-18-deeptech/</link>
+      <pubDate>Fri, 18 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2022-11-18-deeptech/</guid>
+      <description>&lt;p&gt;A &lt;a href=&#34;https://zhuanlan.zhihu.com/p/584450308&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;news article&lt;/a&gt; (in Chinese) on our recently published &lt;a href=&#34;https://yousoftmatter.org/publication/adkins-22-dynam-activ-liquid-inter/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Science paper&lt;/a&gt; just appeared on a tech-review social media, DeepTech. The article introduces our works on active liquid interfaces to broad audiences, highlighting the potential applications of our results in industry and material science.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Our paper on active nematic defects appeared on PRE</title>
+      <link>https://zhihongyou.github.io/news/2022-11-16-pre-paper/</link>
+      <pubDate>Wed, 16 Nov 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2022-11-16-pre-paper/</guid>
+      <description>&lt;p&gt;Our paper titled &amp;ldquo;Active nematic defects in compressible and incompressible flows&amp;rdquo; appeared on Phys. Rev. E. Check it out on &lt;a href=&#34;https://doi.org/10.1103/physreve.106.054610&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Phys. Rev. E&lt;/a&gt; or on &lt;a href=&#34;https://arxiv.org/abs/2206.13598&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt;.&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Zihan Guo (郭子晗) joined our group</title>
+      <link>https://zhihongyou.github.io/news/2022-09-01-zihan/</link>
+      <pubDate>Thu, 01 Sep 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2022-09-01-zihan/</guid>
+      <description>&lt;p&gt;Meet Zihan Guo (郭子晗), the FIRST student in our group! Zihan recently received his Bachelor degree in Physics from Jiangxi Normal University. He has done some very nice simulations on three-body motion during his undergrade. In the coming years, he will try to develop a code to simulate colloidal particles immersed in active fluids. Welcome, Zihan!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>New Position Started</title>
