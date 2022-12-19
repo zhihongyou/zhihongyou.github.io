@@ -5,12 +5,21 @@
     <link>https://zhihongyou.github.io/news/</link>
       <atom:link href="https://zhihongyou.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Fri, 18 Nov 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://zhihongyou.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>Yulin Li (黎玉林) and Tong Zhou (周彤) joined our group</title>
+      <link>https://zhihongyou.github.io/news/2022-12-05-new-students/</link>
+      <pubDate>Mon, 05 Dec 2022 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2022-12-05-new-students/</guid>
+      <description>&lt;p&gt;Our group doubles again! Meet &lt;a href=&#34;https://yousoftmatter.org/author/yulin-li-%e9%bb%8e%e7%8e%89%e6%9e%97/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Yulin Li (黎玉林)&lt;/a&gt; and &lt;a href=&#34;https://yousoftmatter.org/author/tong-zhou-%e5%91%a8%e5%bd%a4/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Tong Zhou (周彤)&lt;/a&gt;!&lt;/p&gt;
+&lt;p&gt;Yulin is our first PhD student. He&amp;rsquo;s interested in the self-organization of cellular systems, particularly, growing bacterial colonies. Tong, as our second Master student, will be working on the self-assembly of active particles. May the force be with them!&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>News article on our Science paper</title>
