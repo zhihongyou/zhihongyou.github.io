@@ -13,11 +13,13 @@
     </image>
     
     <item>
-      <title>Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals</title>
-      <link>https://zhihongyou.github.io/publication/caballero-2023-vort-phas-sepa/</link>
+      <title>Vorticity Phase Separation and Defect Lattices in the Isotropic Phase of Active Liquid Crystals</title>
+      <link>https://zhihongyou.github.io/publication/caballero-23-vortic-phase-separ-defec-lattic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/caballero-2023-vort-phas-sepa/</guid>
-      <description></description>
+      <guid>https://zhihongyou.github.io/publication/caballero-23-vortic-phase-separ-defec-lattic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;We use numerical simulations and linear stability analysis to study the dynamics of an active liquid crystal film on a substrate in the regime where the passive system would be isotropic. Extensile activity builds up local orientational order and  destabilizes the quiescent isotropic state above a critical activity value, eventually resulting in spatiotemporal chaotic dynamics akin to the one observed ubiquitously in the nematic state. Here we show that tuning substrate friction yields a variety of emergent structures at intermediate activity, including lattices of flow vortices with associated regular arrangements of topological defects and a new state where flow vortices trap pairs of $+1/2$ defect that chase each other tail. \mcmrev{These chiral units spontaneously pick the sense of rotation and organize in a hexagonal lattice, surrounded by a diffuse flow of opposite rotation to maintain zero net vorticity.} The length scale of these emergent structures is set by the screening length $l_\eta=\sqrt{\eta/\Gamma}$ of the flow, controlled by the shear viscosity  $\eta$ and the substrate friction $\Gamma$, and can be captured by simple mode selection of the vortical flows. We demonstrate that the emergence of coherent structures can be interpreted as a phase separation of vorticity, where friction plays a role akin to that of birth/death processes in breaking conservation of the phase separating species and selecting a characteristic scale for the patterns. Our work shows that friction provides an experimentally accessible tuning parameter for designing controlled active flows.&lt;/p&gt;
+</description>
     </item>
     
     <item>

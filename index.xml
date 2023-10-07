@@ -5,7 +5,7 @@
     <link>https://zhihongyou.github.io/</link>
       <atom:link href="https://zhihongyou.github.io/index.xml" rel="self" type="application/rss+xml" />
     <description>You Soft Matter Group</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Sun, 01 Jan 2023 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>You Soft Matter Group</title>
@@ -13,11 +13,21 @@
     </image>
     
     <item>
-      <title>Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals</title>
-      <link>https://zhihongyou.github.io/publication/caballero-2023-vort-phas-sepa/</link>
+      <title>New Paper Appeared on Soft Matter</title>
+      <link>https://zhihongyou.github.io/news/2023-09-25-soft-matter-paper/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2023-09-25-soft-matter-paper/</guid>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;http://yousoftmatter.org/publication/caballero-23-vortic-phase-separ-defec-lattic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals&lt;/a&gt; was published on Soft Matter. Check it out on &lt;a href=&#34;https://doi.org/10.1039/D3SM00744H&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft Matter&lt;/a&gt; or &lt;a href=&#34;https://arxiv.org/abs/2306.04526v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; for preprint version..&lt;/p&gt;</description>
+    </item>
+    
+    <item>
+      <title>Vorticity Phase Separation and Defect Lattices in the Isotropic Phase of Active Liquid Crystals</title>
+      <link>https://zhihongyou.github.io/publication/caballero-23-vortic-phase-separ-defec-lattic/</link>
       <pubDate>Sun, 01 Jan 2023 00:00:00 +0000</pubDate>
-      <guid>https://zhihongyou.github.io/publication/caballero-2023-vort-phas-sepa/</guid>
-      <description></description>
+      <guid>https://zhihongyou.github.io/publication/caballero-23-vortic-phase-separ-defec-lattic/</guid>
+      <description>&lt;p&gt;&lt;strong&gt;Abstract&lt;/strong&gt;:&lt;/p&gt;
+&lt;p&gt;We use numerical simulations and linear stability analysis to study the dynamics of an active liquid crystal film on a substrate in the regime where the passive system would be isotropic. Extensile activity builds up local orientational order and  destabilizes the quiescent isotropic state above a critical activity value, eventually resulting in spatiotemporal chaotic dynamics akin to the one observed ubiquitously in the nematic state. Here we show that tuning substrate friction yields a variety of emergent structures at intermediate activity, including lattices of flow vortices with associated regular arrangements of topological defects and a new state where flow vortices trap pairs of $+1/2$ defect that chase each other tail. \mcmrev{These chiral units spontaneously pick the sense of rotation and organize in a hexagonal lattice, surrounded by a diffuse flow of opposite rotation to maintain zero net vorticity.} The length scale of these emergent structures is set by the screening length $l_\eta=\sqrt{\eta/\Gamma}$ of the flow, controlled by the shear viscosity  $\eta$ and the substrate friction $\Gamma$, and can be captured by simple mode selection of the vortical flows. We demonstrate that the emergence of coherent structures can be interpreted as a phase separation of vorticity, where friction plays a role akin to that of birth/death processes in breaking conservation of the phase separating species and selecting a characteristic scale for the patterns. Our work shows that friction provides an experimentally accessible tuning parameter for designing controlled active flows.&lt;/p&gt;
+</description>
     </item>
     
     <item>

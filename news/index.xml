@@ -5,12 +5,20 @@
     <link>https://zhihongyou.github.io/news/</link>
       <atom:link href="https://zhihongyou.github.io/news/index.xml" rel="self" type="application/rss+xml" />
     <description>News</description>
-    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 05 Dec 2022 00:00:00 +0000</lastBuildDate>
+    <generator>Wowchemy (https://wowchemy.com)</generator><language>en-us</language><lastBuildDate>Mon, 25 Sep 2023 00:00:00 +0000</lastBuildDate>
     <image>
       <url>https://zhihongyou.github.io/media/icon_hu294d7ef0a71614cd9e4bcc2cc7f71769_229318_512x512_fill_lanczos_center_3.png</url>
       <title>News</title>
       <link>https://zhihongyou.github.io/news/</link>
     </image>
+    
+    <item>
+      <title>New Paper Appeared on Soft Matter</title>
+      <link>https://zhihongyou.github.io/news/2023-09-25-soft-matter-paper/</link>
+      <pubDate>Mon, 25 Sep 2023 00:00:00 +0000</pubDate>
+      <guid>https://zhihongyou.github.io/news/2023-09-25-soft-matter-paper/</guid>
+      <description>&lt;p&gt;Our paper on &lt;a href=&#34;http://yousoftmatter.org/publication/caballero-23-vortic-phase-separ-defec-lattic/&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Vorticity phase separation and defect lattices in the isotropic phase of active liquid crystals&lt;/a&gt; was published on Soft Matter. Check it out on &lt;a href=&#34;https://doi.org/10.1039/D3SM00744H&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;Soft Matter&lt;/a&gt; or &lt;a href=&#34;https://arxiv.org/abs/2306.04526v2&#34; target=&#34;_blank&#34; rel=&#34;noopener&#34;&gt;arXiv&lt;/a&gt; for preprint version..&lt;/p&gt;</description>
+    </item>
     
     <item>
       <title>Yulin Li (黎玉林) and Tong Zhou (周彤) joined our group</title>
