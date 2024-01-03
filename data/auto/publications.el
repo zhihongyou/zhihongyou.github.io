@@ -11,6 +11,7 @@
     "you2019growth"
     "adkins22_dynam_activ_liquid_inter"
     "pokawanvit22_activ_nemat_defec_compr_incom_flows"
-    "caballero23_vortic_phase_separ_defec_lattic"))
+    "caballero23_vortic_phase_separ_defec_lattic"
+    "jiang2023spont_stab_rotat_flock_flex_acti_matt"))
  :bibtex)
 
